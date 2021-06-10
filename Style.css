@@ -1,0 +1,22 @@
+p {
+  background-color: grey;
+}
+.para1 {
+  background-color: orange;
+  font-size: 10px;
+}
+.para2 {
+  background-color: blue;
+  font-size: 10px;
+  color: white;
+}
+.para3 {
+  background-color: white;
+  font-size: 15px;
+  font-family: monospace;
+  font-weight: lighter;
+}
+.para4 {
+  font-weight: bold;
+  font-family: serif;
+}
